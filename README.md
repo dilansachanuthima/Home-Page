@@ -1,2 +1,43 @@
-# Home-Page
-S.J.V.
+<html>
+<head><title>Home Page</title></head>
+<body>
+<center><i><font color="red"><u><h1>K/Swarnajayanthi Maha Vidyalaya</h1></u></font></i></center>
+<div style="text-align:right">
+  <button>Login</button>
+</div>
+<marquee><font color="#7CFC00"><h3>සත්‍යය,යුක්තිය, සාධාරණත්වය සුරකිමු.</h3></font></marquee>
+<font color="blue"><h2><i>Wecome To Our School Home Page</i></h2></font>
+<font color="orange"><h3>About Us:</h3></font>
+<p>Swarna Jayanthi Maha vidyalaya, was established on 1985 in Colombo-Kandy road in the Kegalle district At the very first time there were only 210 students and 5 teacher. Our Vision To emerge as the most efficient and productive School in the district of the Sabaragamuwa province Our Mission To produce a good citizen to the society , each and every child should be equipped with competencies as well as good ethics. So , the subject – oriented and co-curricular activities are developed and implemented accordingly.</p> 
+<font color="orange"><h3>School Details:</h3></font>
+<ul type="disc">
+<li>Address: Kegalle</li>
+<li>Province: Sabaragamuwa</li>
+<li>Education Zone And Division: Kegalle</li>
+<li>School level: Prov.</li>
+<li>Year Span: G6-13</li>
+<li>Total student: 2784</li>
+<li>Total male student From G1-5: 0</li>
+<li>Total female student From G1-5: 0</li>
+<li>Total student From G1-5: 0</li>
+<li>Total male student From G6-11: 898</li>
+<li>Total female student From G6-11: 979</li>
+<li>Total student From G6-11: 1877</li>
+<li>Total male student in A/L: 379</li>
+<li>Total female student in A/L: 528</li>
+<li>Total student in A/L: 907</li>
+<li>Total male student: 1277</li>
+<li>Total female student: 1507</li>
+<li>Total student: 2784</li></ul>
+<b>S.J.V. Facebook Page Link:</b><a href="https://www.facebook.com/p/KG-Swarnajayanthi-MV-100066695300979/">https://www.facebook.com/p/KG-Swarnajayanthi-MV-100066695300979/</a>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
